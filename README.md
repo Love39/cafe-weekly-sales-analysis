@@ -23,5 +23,3 @@ This project analyses weekly sales data for a small cafe using Excel and present
 
 ## Dataset
 weekly-sales-data.xlsx
-
-Dataset Source: https://www.kaggle.com/datasets/yasserh/ibm-attrition-dataset
