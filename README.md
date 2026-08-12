@@ -13,9 +13,9 @@ This project analyses weekly sales data for a small cafe using Excel and present
 - Sales are unevenly distributed across the week. Although the average daily sales are 5143, more than half of the days fall below this level. This indicates that revenue is driven by a few high-performing days.
 
 ## Visualizations
-![Weekday and Weekend Sales] (retail-daily-sales-summary.png)
+![Weekday and Weekend Sales] (cafe-daily-sales-summary.png)
 
-![Sales by Category] (weekly_sales_chart.png)
+![Sales by Category] (cafe-sales-category.png)
 
 ## Business Recommendations
 - The shop owner should prioritize food inventory and ensure availability.
